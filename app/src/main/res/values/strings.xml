@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Bahasa Ingris -->
+
+    <string name="app_name">Saroha Mobile</string>
+    <string name="Author">Edward C Hutapea</string>
+    <string name="CopyRight">Saroha Software</string>
+    <string name="UserName">Name</string>
+    <string name="UserLoginName">Login Name</string>
+    <string name="UserPassword">Password</string>
+    <string name="UserRetypePassword">Retype Password</string>
+    <string name="PhoneNumber1">Phone Number 1</string>
+    <string name="PhoneNumber2">Phone Number 2</string>
+    <string name="EmailAddress">Email Address</string>
+    <string name="ForgotPassword">Forgot Password ?</string>
+    <string name="RegisterNow">Register Now</string>
+    <string name="RegisterTitle">Register</string>
+    <string name="NoPassword">Do not have the Password</string>
+    <string name="BtnUpdate">Update</string>
+    <string name="BtnCancel">Cancel</string>
+    <string name="BtnDelete">Delete</string>
+    <string name="nm_pt">Company Name</string>
+
+
+    <!-- Error Message -->
+
+    <!-- Bahasa Indonesia -->
+    <!--
+    <string name="app_name">Saroha Mobile</string>
+    <string name="Author">Edward C Hutapea</string>
+    <string name="CopyRight">Saroha Software</string>
+    <string name="UserName">Nama</string>
+    <string name="UserLoginName">Nama Login</string>
+    <string name="UserPassword">Password</string>
+    <string name="UserRetypePassword">Ulangi Password</string>
+    <string name="PhoneNumber1">Nomor Telepon 1</string>
+    <string name="PhoneNumber2">Nomor Telepon 2</string>
+    <string name="EmailAddress">Alamat Email</string>
+    <string name="ForgotPassword">Lupa Password ?</string>
+    <string name="RegisterNow">Daftar Sekarang</string>
+    <string name="RegisterTitle">Daftar</string>
+    <string name="NoPassword">Belum Punya Password</string>
+    <string name="BtnUpdate">Simpan</string>
+    <string name="BtnCancel">Batal</string>
+    <string name="BtnDelete">Hapus</string>
+    <string name="nm_pt">Nama Perusahaan</string>
+
+-->
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LtBinding/app/src/main/res/layout/loginfrm.xml" value="0.1716485507246377" />
+        <entry key="..\:/LtBinding/app/src/main/res/layout/registerfrm.xml" value="0.22447916666666667" />
+        <entry key="..\:/Project/Android/Latihan/LtBinding/app/src/main/res/drawable/bg_btndanger.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/Latihan/LtBinding/app/src/main/res/drawable/bg_btnmain.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/Latihan/LtBinding/app/src/main/res/drawable/bg_etxmain.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/Latihan/LtBinding/app/src/main/res/drawable/bg_etxvarian.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/Latihan/LtBinding/app/src/main/res/layout/loginfrm.xml" value="0.2" />
+        <entry key="..\:/Project/Android/Latihan/LtBinding/app/src/main/res/layout/registerfrm.xml" value="0.1" />
+        <entry key="..\:/Project/Android/SarohaBinding/app/src/main/res/drawable/bg_btndanger.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/SarohaBinding/app/src/main/res/drawable/bg_btnmain.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/SarohaBinding/app/src/main/res/drawable/bg_etxmain.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/SarohaBinding/app/src/main/res/drawable/bg_etxvarian.xml" value="0.1345" />
+        <entry key="..\:/Project/Android/SarohaBinding/app/src/main/res/layout/loginfrm.xml" value="0.2" />
+        <entry key="..\:/Project/Android/SarohaBinding/app/src/main/res/layout/registerfrm.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
