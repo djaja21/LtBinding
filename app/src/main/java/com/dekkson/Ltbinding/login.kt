@@ -11,9 +11,9 @@ class login : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        var name: String = ""
+//        var name: String = ""
 
-        var text:String = ""
+//        var text:String = ""
         oBinding = LoginfrmBinding.inflate(layoutInflater)
         setContentView(oBinding.root)
 
